@@ -85,6 +85,12 @@ php artisan serve
 
 Visit http://localhost:8000/contact in your browser to view the demo.
 
+If you want to include the project as a package to your app, run:
+
+```
+composer require samuelayo/contactform
+```
+
 ## Built With
 
 * [Laravel](https://laravel.com/) - The PHP framework for web artisans.
