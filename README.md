@@ -32,7 +32,7 @@ php artisan key:generate
 - clone this repository to the newly created folder
 
 ```
-git clone packages/samuelayo/contactform
+git clone https://github.com/samuelayo/contact-form-package.git packages/samuelayo/contactform
 ```
 - Tell Laravel how to load our package and use it's functions, so inside the root of your Laravel app in the composer.json add this code:
 
